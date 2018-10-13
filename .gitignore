@@ -1,2 +1,4 @@
 .DS_Store
 .ipynb_checkpoints
+image_processing/datasets/*
+natural_language_processing/datasets/*
